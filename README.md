@@ -9,9 +9,8 @@
 
 ## Installatie
 1. Clone de repo door het in de terminal de clonen met het `git clone` command.
-2. Dan, run`npm init` `npm install` in deze folder om de juiste modules te installeren
-3. Vraag ons via teams de `.env` file details en voeg dit bestand + de content erin toe aan de directory
-4. run `npm run dev` om het project op te starten
+2. Dan, run `npm install` in deze folder om de juiste modules te installeren
+4. run `npm run dev` om het project op te starten in dev mode, run `npm server` om de server te starten
 5. open je browser naar keuze en zoek op `localhost:4200` (of een andere port, als je een ander portnummer hebt ingevuld in de .env)
 
 ## Gebruik
